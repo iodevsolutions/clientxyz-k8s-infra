@@ -1,0 +1,1 @@
+../base/vpc.variables.tf
